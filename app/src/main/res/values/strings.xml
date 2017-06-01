@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">LostAndFound</string>
+    <string name="app_name">Lost and Found</string>
+    <string name="pleading_message">Save a life. Contact your\nlocal animal shelter.</string>
+    <string name="phone_number">Hours: 9-5 M-F\n(619)555-5555</string>
+    <string name="address">123 Home St.\nSan Diego, CA</string>
 </resources>
